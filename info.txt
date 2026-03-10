@@ -1,0 +1,15 @@
+Trayecto: 	Operador en Análisis de Datos 364 hs
+Módulo:		Metodologías y técnicas de estadística para gestión de datos
+Duración:	96 hs
+Días:		Lunes, Miércoles, Viernes
+Horario:	19:00 a 22:20 hs
+
+Profe:		Carlos Ríos			c.rios@bue.edu.ar
+
+Materiales:	aulas virtuales
+	github:	https://github.com/crios2020/2026CFP8AnalisisDeDatos
+	
+PlayList: VM Linux:
+	https://www.youtube.com/playlist?list=PLMLmotKSEKYdhb3F3JpbtZPewb-9wZTji
+	
+	

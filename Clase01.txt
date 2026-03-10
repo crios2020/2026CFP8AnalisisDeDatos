@@ -1,0 +1,8 @@
+Memoria RAM:	Volatil	        Muy caro    Veloz
+Disco Duro:		Persistente     Ecónomico   Lento
+
+Medios Propios:     computadoras propias, servidores propios
+Medios Alquilados:  nubes (cloud, google drive, dropbox, microsoft one drive, amazon cloud, hosting, maquinas virtuales, etc) 
+
+Software Privativo: usuario no tiene control, acceso al código y no puese modificar.
+Software Libre:     usuario tiene control de todo el código y puede modificarlo.
