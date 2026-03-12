@@ -1,0 +1,22 @@
+Planilla de Calculo	 (RAM)
+Verticales son columnas - Horizontales filas
+
+Base de datos	(HD)
+Verticales campos - Horizontales registros
+
+
+Planilla de calculo 
+columnas nombradas en letras, primer columna A ultima columna XFD.
+las filas estan nombradas con números enteros.
+hay 16384 columnas
+hay 1048573 filas
+
+atajo crtol flecha
+
+La intersección entre una columna y una fila, forma una celda
+ej: la intersección entre la columna D y la fila 9 forma la celda
+	llamada D9
+	
+Un conjunto de celdas, adyacentes, forman un bloque o rango
+para nombrar un bloque (celda diagonal1):(celda diagonal2)
+ej: C3:E7
