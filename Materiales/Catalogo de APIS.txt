@@ -1,0 +1,109 @@
+Apis Publicas de Republica de Argentina
+	- https://www.datos.gob.ar/apis						(Testeado, descarga de datos .csv .xlsx .json)
+	- https://www.argentina.gob.ar/datos-abiertos/georef/openapi#/Recursos/get_provincias (No funciono en el momento en que probe)
+	- https://apis.datos.gob.ar/georef/api/provincias (No funciono en el momento en que probe)
+	- https://apis.datos.gob.ar/georef/api/departamentos?formato=csv&provincia=cordoba&max=10  (No funciono en el momento en que probe)
+	
+Apis Publicas de la Ciudad de Buenos aires
+Algunas APIs requieren un registro complicado, otras APIs tienen desprolijidades (En el momento de testeo no fue posible hacer el registro)
+	(Corrección se realizo el testeo y tardo 72 hs el mail de confirmación con las credenciales, a la fecha no esta terminado el test)
+	- https://buenosaires.gob.ar/apis
+	- https://buenosaires.gob.ar/infraestructura/movilidad/api-transporte
+	- https://servicios.usig.buenosaires.gob.ar/normalizar						(testeado, funciona sin registros)
+
+Api de datos del tiempo y meteorología
+	- https://openweathermap.org/api		(Requiere registro y Api Key, esta testeada)
+	- https://open-meteo.com/				(OpenSource, no esta testeada) 
+	- https://github.com/gastonpereyra/smnQL/tree/master/docs/api 		(no devuelve datos actuales)
+	- https://app-clima-6bdda.web.app/		(No es un API, es una web de ejemplo de uso de un API)
+	
+Api de IP y Geo
+	- https://ipwhois.app/json/				(Testeada OK, 10mil request por mes free, el GEO es del proveedor )
+	- https://www.openstreetmap.org/#map=18/-34.6089671/-58.4220906				(Testeado OK Devuelve un mapa)
+	- https://www.ipify.org/				(Funciones avanzadas requiere login, hay pocos request free, no esta testeado las funciones avanzadas)
+	- https://api64.ipify.org/?format=json
+	- https://api.ipify.org?format=json
+	- https://api.opencagedata.com/geocode/v1/json 		(Devuelve la dirección en base a coordenadas - requiere APIkey)
+
+Api de trenes argentinos
+	- https://trenes.sofse.apidocs.ar/
+	- https://ariedro.dev/api-trenes/infraestructura/estaciones?nombre=flores
+	- https://ariedro.dev/api-trenes/arribos/estacion/139
+	- https://ariedro.dev/api-trenes/infraestructura/estaciones?nombre=Migue
+	- https://ariedro.dev/api-trenes/arribos/estacion/271?hasta=236&fecha=2025-03-25&hora=08:32&cantidad=3
+	- https://ariedro.dev/api-trenes/arribos/estacion/186?hasta=269&fecha=2025-11-01&hora=20:30&cantidad=3
+
+Apis libres de IA
+	- https://groq.com/							(Requiere registro y Api Key, esta testeada)
+	- https://openai.com/es-ES/api/				(OpenSource, no esta testeada) 
+
+Apis finacieras
+	- https://dolarapi.com								(Testeada - no requiere registro)
+	- https://dolarapi.com/v1/dolares/blue
+	- https://dolarapi.com/v1/dolares/oficial
+	- https://dolarapi.com/v1/cotizaciones/eur
+	
+	- https://api.invertironline.com/					(require Registro - no testeada)
+	
+
+Apis de Argentinadatos.com
+	argentinadatos.com:	muy buena, muy completa, no requiere registro, datos de feriados, uva, dolar, riesgo país, inflación y varios más. 10 puntos
+	- https://argentinadatos.com/docs/operations/get-finanzas-indices-riesgo-pais.html
+	- https://api.argentinadatos.com/v1/finanzas/indices/riesgo-pais/
+	- https://api.argentinadatos.com/v1/finanzas/indices/riesgo-pais/ultimo/
+	- https://api.argentinadatos.com/v1/feriados/2025/
+	- https://api.argentinadatos.com/v1/estado/
+	
+
+Apis del Banco Central de la Republica Argentina
+	- https://www.bcra.gob.ar/BCRAyVos/catalogo-de-APIs-banco-central.asp
+	(Muy interesante, requiere registrarse, se ve dificil de usar y entender, 'Para entendidos' )
+
+Poder Judicial de la nación
+	- https://datos.jus.gob.ar/	(Testeado, descargue datos CSV)
+	
+Apis de futbol o deportivas
+	- https://www.football-data.org/			(no testeada, hay que subcribirse ofrede 10 request por minuto free)
+	- https://www.thesportsdb.com/docs_api_examples									(Testeado OK - Hay opciones que requiere APIkey)
+	- https://www.thesportsdb.com/api/v1/json/123/searchteams.php?t=Arsenal
+	- https://www.thesportsdb.com/api/v1/json/3/lookupevent.php?id=1
+	
+Listados varios de APIS publicas, sin testear
+	- https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+	- https://www.freepublicapis.com/
+	- https://www.apispublicas.com/
+	- https://ed.team/blog/las-mejores-apis-publicas-para-practicar
+	- https://publicapis.io/
+	- https://platzi.com/blog/12-api-gratis-para-desarrolladores-frontend/
+	
+Apis de resultados electorales Argentina
+	- https://resultados.mininterior.gob.ar/desarrollo		(Testeado OK)
+	- https://resultados.mininterior.gob.ar/api/resultados/getResultados?anioEleccion=2025&tipoRecuento=1&tipoEleccion=1&categoriaId=2&distritoId=1&seccionProvincialId=0&seccionId=3&circuitoId=000039&mesaId=1244%27%20-H%20%27accept:%20application/json
+	- https://datos.gob.ar/dataset/dine-api-publicacion-resultados-electorales/archivo/dine_2.1				(info en cvs)
+	- https://resultados.mininterior.gob.ar/				(Testeado OK, formato csv)
+	- https://resultados-electorales.argentina.apidocs.ar/	(Requiere token/apikey)
+	- https://resultados.mininterior.gob.ar/api
+
+Apis de desarrolladores con ejemplos
+	- https://jsonplaceholder.typicode.com/					(Testeado OK)
+	- https://jsonplaceholder.typicode.com/users
+	- https://jsonplaceholder.typicode.com/users/1
+	- https://jsonplaceholder.typicode.com/posts
+	- Otras rutas disponibles 
+								/posts/1/comments
+								/albums/1/photos
+								/users/1/albums
+								/users/1/todos
+								/users/1/posts
+
+
+Páginas con widgets 
+	- https://downtack.com/es/			(Ofrece widgets - muy completa - hay que registrarse)
+	
+	
+
+
+
+
+
+
