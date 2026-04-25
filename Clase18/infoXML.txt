@@ -1,0 +1,12 @@
+XML eXtensible Markup Language
+
+No es un lenguaje de programación, es un lenguaje de datos
+
+Ejemplo de un archivo .xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+    <nombre>Maria</nombre>
+    <edad>30</edad>
+    <ciudad>Córdoba</ciudad>
+</persona>
