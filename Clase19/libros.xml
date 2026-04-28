@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+  <libro>
+    <titulo>Cien años de soledad</titulo>
+    <autor>Gabriel García Márquez</autor>
+    <anio_publicacion>1967</anio_publicacion>
+    <genero>Realismo mágico</genero>
+    <isbn>9788821082030</isbn>
+  </libro>
+  <libro>
+    <titulo>El amor en los tiempos del cólera</titulo>
+    <autor>Gabriel García Márquez</autor>
+    <anio_publicacion>1985</anio_publicacion>
+    <genero>Romance</genero>
+    <isbn>9788084276849</isbn>
+  </libro>
+  <libro>
+    <titulo>La casa de los espíritus</titulo>
+    <autor>Isabel Allende</autor>
+    <anio_publicacion>1982</anio_publicacion>
+    <genero>Realismo mágico</genero>
+    <isbn>9780060578008</isbn>
+  </libro>
+  <libro>
+    <titulo>Rayuela</titulo>
+    <autor>Julio Cortázar</autor>
+    <anio_publicacion>1963</anio_publicacion>
+    <genero>Ficción</genero>
+    <isbn>9785824644296</isbn>
+  </libro>
+  <libro>
+    <titulo>Ficciones</titulo>
+    <autor>Jorge Luis Borges</autor>
+    <anio_publicacion>1944</anio_publicacion>
+    <genero>Ficción</genero>
+    <isbn>9785907050266</isbn>
+  </libro>
+  <libro>
+    <titulo>1984</titulo>
+    <autor>George Orwell</autor>
+    <anio_publicacion>1949</anio_publicacion>
+    <genero>Ciencia ficción</genero>
+    <isbn>9784234326082</isbn>
+  </libro>
+  <libro>
+    <titulo>Rebelión en la granja</titulo>
+    <autor>George Orwell</autor>
+    <anio_publicacion>1945</anio_publicacion>
+    <genero>Ficción</genero>
+    <isbn>9782203304598</isbn>
+  </libro>
+  <libro>
+    <titulo>Orgullo y prejuicio</titulo>
+    <autor>Jane Austen</autor>
+    <anio_publicacion>1813</anio_publicacion>
+    <genero>Romance</genero>
+    <isbn>9783851092608</isbn>
+  </libro>
+  <libro>
+    <titulo>Crimen y castigo</titulo>
+    <autor>Fyodor Dostoevsky</autor>
+    <anio_publicacion>1866</anio_publicacion>
+    <genero>Drama</genero>
+    <isbn>9789442453278</isbn>
+  </libro>
+  <libro>
+    <titulo>El extranjero</titulo>
+    <autor>Albert Camus</autor>
+    <anio_publicacion>1942</anio_publicacion>
+    <genero>Ficción</genero>
+    <isbn>9781450277150</isbn>
+  </libro>
+  <libro>
+    <titulo>La metamorfosis</titulo>
+    <autor>Franz Kafka</autor>
+    <anio_publicacion>1915</anio_publicacion>
+    <genero>Ficción</genero>
+    <isbn>9783457180747</isbn>
+  </libro>
+  <libro>
+    <titulo>El nombre de la rosa</titulo>
+    <autor>Umberto Eco</autor>
+    <anio_publicacion>1980</anio_publicacion>
+    <genero>Misterio</genero>
+    <isbn>9782366787108</isbn>
+  </libro>
+  <libro>
+    <titulo>El alquimista</titulo>
+    <autor>Paulo Coelho</autor>
+    <anio_publicacion>1988</anio_publicacion>
+    <genero>Ficción</genero>
+    <isbn>9789147896639</isbn>
+  </libro>
+  <libro>
+    <titulo>Harry Potter y la piedra filosofal</titulo>
+    <autor>J.K. Rowling</autor>
+    <anio_publicacion>1997</anio_publicacion>
+    <genero>Fantasía</genero>
+    <isbn>9781186706085</isbn>
+  </libro>
+  <libro>
+    <titulo>El señor de los anillos</titulo>
+    <autor>J.R.R. Tolkien</autor>
+    <anio_publicacion>1954</anio_publicacion>
+    <genero>Fantasía</genero>
+    <isbn>9788747977496</isbn>
+  </libro>
+  <libro>
+    <titulo>El hobbit</titulo>
+    <autor>J.R.R. Tolkien</autor>
+    <anio_publicacion>1937</anio_publicacion>
+    <genero>Fantasía</genero>
+    <isbn>9789567571987</isbn>
+  </libro>
+  <libro>
+    <titulo>It</titulo>
+    <autor>Stephen King</autor>
+    <anio_publicacion>1986</anio_publicacion>
+    <genero>Terror</genero>
+    <isbn>9785457290129</isbn>
+  </libro>
+  <libro>
+    <titulo>El resplandor</titulo>
+    <autor>Stephen King</autor>
+    <anio_publicacion>1977</anio_publicacion>
+    <genero>Terror</genero>
+    <isbn>9783141463583</isbn>
+  </libro>
+  <libro>
+    <titulo>Asesinato en el Orient Express</titulo>
+    <autor>Agatha Christie</autor>
+    <anio_publicacion>1934</anio_publicacion>
+    <genero>Misterio</genero>
+    <isbn>9787427045159</isbn>
+  </libro>
+  <libro>
+    <titulo>Los juegos del hambre</titulo>
+    <autor>Suzanne Collins</autor>
+    <anio_publicacion>2008</anio_publicacion>
+    <genero>Ciencia ficción</genero>
+    <isbn>9780359307777</isbn>
+  </libro>
+  <libro>
+    <titulo>Dune</titulo>
+    <autor>Frank Herbert</autor>
+    <anio_publicacion>1965</anio_publicacion>
+    <genero>Ciencia ficción</genero>
+    <isbn>9789429804154</isbn>
+  </libro>
+  <libro>
+    <titulo>Neuromante</titulo>
+    <autor>William Gibson</autor>
+    <anio_publicacion>1984</anio_publicacion>
+    <genero>Ciencia ficción</genero>
+    <isbn>9780747268475</isbn>
+  </libro>
+  <libro>
+    <titulo>Ensayo sobre la ceguera</titulo>
+    <autor>José Saramago</autor>
+    <anio_publicacion>1995</anio_publicacion>
+    <genero>Ficción</genero>
+    <isbn>9786093832094</isbn>
+  </libro>
+  <libro>
+    <titulo>El túnel</titulo>
+    <autor>Ernesto Sabato</autor>
+    <anio_publicacion>1948</anio_publicacion>
+    <genero>Ficción</genero>
+    <isbn>9789744185433</isbn>
+  </libro>
+  <libro>
+    <titulo>Sobre héroes y tumbas</titulo>
+    <autor>Ernesto Sabato</autor>
+    <anio_publicacion>1961</anio_publicacion>
+    <genero>Ficción</genero>
+    <isbn>9789143704846</isbn>
+  </libro>
+  <libro>
+    <titulo>La tregua</titulo>
+    <autor>Mario Benedetti</autor>
+    <anio_publicacion>1960</anio_publicacion>
+    <genero>Romance</genero>
+    <isbn>9789045636214</isbn>
+  </libro>
+  <libro>
+    <titulo>Don Quijote de la Mancha</titulo>
+    <autor>Miguel de Cervantes</autor>
+    <anio_publicacion>1605</anio_publicacion>
+    <genero>Ficción</genero>
+    <isbn>9780271845142</isbn>
+  </libro>
+  <libro>
+    <titulo>Matar a un ruiseñor</titulo>
+    <autor>Harper Lee</autor>
+    <anio_publicacion>1960</anio_publicacion>
+    <genero>Drama</genero>
+    <isbn>9782431798558</isbn>
+  </libro>
+  <libro>
+    <titulo>El gran Gatsby</titulo>
+    <autor>F. Scott Fitzgerald</autor>
+    <anio_publicacion>1925</anio_publicacion>
+    <genero>Ficción</genero>
+    <isbn>9784200143682</isbn>
+  </libro>
+  <libro>
+    <titulo>Ulises</titulo>
+    <autor>James Joyce</autor>
+    <anio_publicacion>1922</anio_publicacion>
+    <genero>Ficción</genero>
+    <isbn>9786335779712</isbn>
+  </libro>
+  <libro>
+    <titulo>Lolita</titulo>
+    <autor>Vladimir Nabokov</autor>
+    <anio_publicacion>1955</anio_publicacion>
+    <genero>Ficción</genero>
+    <isbn>9781215478501</isbn>
+  </libro>
+  <libro>
+    <titulo>El guardián entre el centeno</titulo>
+    <autor>J.D. Salinger</autor>
+    <anio_publicacion>1951</anio_publicacion>
+    <genero>Ficción</genero>
+    <isbn>9782328155259</isbn>
+  </libro>
+  <libro>
+    <titulo>Fahrenheit 451</titulo>
+    <autor>Ray Bradbury</autor>
+    <anio_publicacion>1953</anio_publicacion>
+    <genero>Ciencia ficción</genero>
+    <isbn>9788248995692</isbn>
+  </libro>
+  <libro>
+    <titulo>Drácula</titulo>
+    <autor>Bram Stoker</autor>
+    <anio_publicacion>1897</anio_publicacion>
+    <genero>Terror</genero>
+    <isbn>9786857859138</isbn>
+  </libro>
+  <libro>
+    <titulo>Frankenstein</titulo>
+    <autor>Mary Shelley</autor>
+    <anio_publicacion>1818</anio_publicacion>
+    <genero>Terror</genero>
+    <isbn>9787164586144</isbn>
+  </libro>
+  <libro>
+    <titulo>El código Da Vinci</titulo>
+    <autor>Dan Brown</autor>
+    <anio_publicacion>2003</anio_publicacion>
+    <genero>Suspenso</genero>
+    <isbn>9780752716039</isbn>
+  </libro>
+  <libro>
+    <titulo>Ángeles y demonios</titulo>
+    <autor>Dan Brown</autor>
+    <anio_publicacion>2000</anio_publicacion>
+    <genero>Suspenso</genero>
+    <isbn>9788913299810</isbn>
+  </libro>
+  <libro>
+    <titulo>La sombra del viento</titulo>
+    <autor>Carlos Ruiz Zafón</autor>
+    <anio_publicacion>2001</anio_publicacion>
+    <genero>Misterio</genero>
+    <isbn>9789644128790</isbn>
+  </libro>
+  <libro>
+    <titulo>El juego del ángel</titulo>
+    <autor>Carlos Ruiz Zafón</autor>
+    <anio_publicacion>2008</anio_publicacion>
+    <genero>Misterio</genero>
+    <isbn>9782145314709</isbn>
+  </libro>
+  <libro>
+    <titulo>La chica del tren</titulo>
+    <autor>Paula Hawkins</autor>
+    <anio_publicacion>2015</anio_publicacion>
+    <genero>Suspenso</genero>
+    <isbn>9785461148539</isbn>
+  </libro>
+  <libro>
+    <titulo>Perdida</titulo>
+    <autor>Gillian Flynn</autor>
+    <anio_publicacion>2012</anio_publicacion>
+    <genero>Suspenso</genero>
+    <isbn>9780220826468</isbn>
+  </libro>
+</libros>

@@ -1,0 +1,43 @@
+XML eXtensible Markup Language
+
+No es un lenguaje de programación, es un lenguaje de datos
+
+Ejemplo de un archivo .xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+    <nombre>Maria</nombre>
+    <edad>30</edad>
+    <ciudad>Córdoba</ciudad>
+</persona>
+
+Estructura básica de un archivo XML
+    - Prólogo (Declaración inicial)
+    - Elemento Raíz (root element)
+    - Elementos Hijos y contenido
+    - Atributos (Opcionales)
+    - Comentarios
+
+- Prólogo
+- Elementos Hijos y contenido
+<?xml version="1.0" encoding="UTF-8"?>      <!-- Prologo -->
+
+- Elemento Raíz
+    <libro>                                 <!-- Root element -->   
+        <titulo>Don Quijote</titulo>        <!-- Elementos Hijos -->
+        <autor>Miguel de Cervantes</autor>
+    </libro>
+
+- Atributos
+    <libro id="1" idioma="es">              <!-- id e idioma son atributos -->   
+        <titulo>Don Quijote</titulo>        <!-- Elementos Hijos -->
+        <autor>Miguel de Cervantes</autor>
+    </libro>
+
+- Comentarios XML, los comentarios no afectan al procesamientos de datos
+<!-- bloque de comentarios -->
+
+- Ejemplo de XML
+
+
+
