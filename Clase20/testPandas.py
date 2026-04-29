@@ -1,9 +1,16 @@
 import pandas as pd
 
 # Instalar pandas
+
+# Windows
 # pip install pandas
-# pip3 install pandas
+# pip install openpyxl
+# pip3 install lxml
+
+# Linux
 # python3 -m pip install pandas
+
+# PIP: Python Installer Package
 
 
 #df=pd.read_xml('libros.xml')
