@@ -1,0 +1,27 @@
+JSON
+JavaScript Object Notation
+
+Ejemplo de JSON
+
+{
+    "nombre": "Juan",
+    "edad":30,
+    "casado": false
+}
+
+Ejemplo XML
+<persona>
+    <nombre>Juan</nombre>
+    <edad>30</edad>
+    <casado>false</casado>
+</persona>
+
+Caracteristicas de JSON
+- Basado en texto.
+- Ligero o liviano.
+- Universal.
+- Estructurado: usa el formato clave-valor 
+
+//TODO Validaor
+//TODO revisar extensión
+//TODO Estructura Mixta apunte
