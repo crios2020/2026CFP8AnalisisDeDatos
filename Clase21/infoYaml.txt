@@ -1,0 +1,16 @@
+Que es YAML
+
+YAML Yet Another Markup Lenguage
+
+Diferencias entre YAML JSON
+- Más Legible
+- Simple
+- Hay más riesgo de errores (La indentación es importante)
+- Hay Compatibilidad
+
+Diferencias entre YAML XML
+- Menos Verboso
+- Menos Formal
+- Más Rápido
+- Más Simple
+

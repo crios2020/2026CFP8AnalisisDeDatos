@@ -1,0 +1,8 @@
+Que es Markdown?
+- Es un Lenguagede marca ligero.
+- Permite visualizar texto en formato enriquecido.
+- Es minimalista
+
+Diferencias con HTML
+# Título en Markdown
+<h1>Título en HTML</h1>

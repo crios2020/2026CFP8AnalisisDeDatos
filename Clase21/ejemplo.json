@@ -1,0 +1,21 @@
+{
+    "nombre": "Juan",
+    "edad": 30,
+    "casado": false,
+    "_comentario": "comentarios!!!!"
+}
+
+[
+    {
+        "nombre": "Juan",
+        "edad": 30,
+        "casado": false,
+        "_comentario": "comentarios!!!!"
+    },
+    {
+        "nombre": "María",
+        "edad": 32,
+        "casado": true,
+        "_comentario": "comentarios!!!!"
+    }
+]

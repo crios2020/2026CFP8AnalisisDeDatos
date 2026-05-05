@@ -1,0 +1,14 @@
+Formato CSV Comman Separated Values
+
+- Cada Linea es un registro de datos
+- Los campos en cada linea estan separados por un delimitador (normalmente ;)
+- La primer linea contiene a menudo los nombres (encabezados) de las columnas; 
+        no es obligatoria esta linea.
+
+Separadores más comunes
+
+- coma (;): es el más común y da nombre al formato.
+- punto y coma (;): en algunas configuraciones regionales la coma es el 
+        separador decimal; y para evitar conflictos se usa el separador ;
+- tabulacion \t: cuando en el contenido se encuentran ; y ; se recomienda usar \t
+- otros: otros separadores comunes son | (pipe) a ^ (circunflejo)

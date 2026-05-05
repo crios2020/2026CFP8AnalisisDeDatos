@@ -1,0 +1,1402 @@
+[
+    {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "anio_publicacion": "1967",
+        "genero": "Realismo mágico",
+        "isbn": "9788821082030"
+    },
+    {
+        "titulo": "El amor en los tiempos del cólera",
+        "autor": "Gabriel García Márquez",
+        "anio_publicacion": "1985",
+        "genero": "Romance",
+        "isbn": "9788084276849"
+    },
+    {
+        "titulo": "La casa de los espíritus",
+        "autor": "Isabel Allende",
+        "anio_publicacion": "1982",
+        "genero": "Realismo mágico",
+        "isbn": "9780060578008"
+    },
+    {
+        "titulo": "Rayuela",
+        "autor": "Julio Cortázar",
+        "anio_publicacion": "1963",
+        "genero": "Ficción",
+        "isbn": "9785824644296"
+    },
+    {
+        "titulo": "Ficciones",
+        "autor": "Jorge Luis Borges",
+        "anio_publicacion": "1944",
+        "genero": "Ficción",
+        "isbn": "9785907050266"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "anio_publicacion": "1949",
+        "genero": "Ciencia ficción",
+        "isbn": "9784234326082"
+    },
+    {
+        "titulo": "Rebelión en la granja",
+        "autor": "George Orwell",
+        "anio_publicacion": "1945",
+        "genero": "Ficción",
+        "isbn": "9782203304598"
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "anio_publicacion": "1813",
+        "genero": "Romance",
+        "isbn": "9783851092608"
+    },
+    {
+        "titulo": "Crimen y castigo",
+        "autor": "Fyodor Dostoevsky",
+        "anio_publicacion": "1866",
+        "genero": "Drama",
+        "isbn": "9789442453278"
+    },
+    {
+        "titulo": "El extranjero",
+        "autor": "Albert Camus",
+        "anio_publicacion": "1942",
+        "genero": "Ficción",
+        "isbn": "9781450277150"
+    },
+    {
+        "titulo": "La metamorfosis",
+        "autor": "Franz Kafka",
+        "anio_publicacion": "1915",
+        "genero": "Ficción",
+        "isbn": "9783457180747"
+    },
+    {
+        "titulo": "El nombre de la rosa",
+        "autor": "Umberto Eco",
+        "anio_publicacion": "1980",
+        "genero": "Misterio",
+        "isbn": "9782366787108"
+    },
+    {
+        "titulo": "El alquimista",
+        "autor": "Paulo Coelho",
+        "anio_publicacion": "1988",
+        "genero": "Ficción",
+        "isbn": "9789147896639"
+    },
+    {
+        "titulo": "Harry Potter y la piedra filosofal",
+        "autor": "J.K. Rowling",
+        "anio_publicacion": "1997",
+        "genero": "Fantasía",
+        "isbn": "9781186706085"
+    },
+    {
+        "titulo": "El señor de los anillos",
+        "autor": "J.R.R. Tolkien",
+        "anio_publicacion": "1954",
+        "genero": "Fantasía",
+        "isbn": "9788747977496"
+    },
+    {
+        "titulo": "El hobbit",
+        "autor": "J.R.R. Tolkien",
+        "anio_publicacion": "1937",
+        "genero": "Fantasía",
+        "isbn": "9789567571987"
+    },
+    {
+        "titulo": "It",
+        "autor": "Stephen King",
+        "anio_publicacion": "1986",
+        "genero": "Terror",
+        "isbn": "9785457290129"
+    },
+    {
+        "titulo": "El resplandor",
+        "autor": "Stephen King",
+        "anio_publicacion": "1977",
+        "genero": "Terror",
+        "isbn": "9783141463583"
+    },
+    {
+        "titulo": "Asesinato en el Orient Express",
+        "autor": "Agatha Christie",
+        "anio_publicacion": "1934",
+        "genero": "Misterio",
+        "isbn": "9787427045159"
+    },
+    {
+        "titulo": "Los juegos del hambre",
+        "autor": "Suzanne Collins",
+        "anio_publicacion": "2008",
+        "genero": "Ciencia ficción",
+        "isbn": "9780359307777"
+    },
+    {
+        "titulo": "Dune",
+        "autor": "Frank Herbert",
+        "anio_publicacion": "1965",
+        "genero": "Ciencia ficción",
+        "isbn": "9789429804154"
+    },
+    {
+        "titulo": "Neuromante",
+        "autor": "William Gibson",
+        "anio_publicacion": "1984",
+        "genero": "Ciencia ficción",
+        "isbn": "9780747268475"
+    },
+    {
+        "titulo": "Ensayo sobre la ceguera",
+        "autor": "José Saramago",
+        "anio_publicacion": "1995",
+        "genero": "Ficción",
+        "isbn": "9786093832094"
+    },
+    {
+        "titulo": "El túnel",
+        "autor": "Ernesto Sabato",
+        "anio_publicacion": "1948",
+        "genero": "Ficción",
+        "isbn": "9789744185433"
+    },
+    {
+        "titulo": "Sobre héroes y tumbas",
+        "autor": "Ernesto Sabato",
+        "anio_publicacion": "1961",
+        "genero": "Ficción",
+        "isbn": "9789143704846"
+    },
+    {
+        "titulo": "La tregua",
+        "autor": "Mario Benedetti",
+        "anio_publicacion": "1960",
+        "genero": "Romance",
+        "isbn": "9789045636214"
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "anio_publicacion": "1605",
+        "genero": "Ficción",
+        "isbn": "9780271845142"
+    },
+    {
+        "titulo": "Matar a un ruiseñor",
+        "autor": "Harper Lee",
+        "anio_publicacion": "1960",
+        "genero": "Drama",
+        "isbn": "9782431798558"
+    },
+    {
+        "titulo": "El gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "anio_publicacion": "1925",
+        "genero": "Ficción",
+        "isbn": "9784200143682"
+    },
+    {
+        "titulo": "Ulises",
+        "autor": "James Joyce",
+        "anio_publicacion": "1922",
+        "genero": "Ficción",
+        "isbn": "9786335779712"
+    },
+    {
+        "titulo": "Lolita",
+        "autor": "Vladimir Nabokov",
+        "anio_publicacion": "1955",
+        "genero": "Ficción",
+        "isbn": "9781215478501"
+    },
+    {
+        "titulo": "El guardián entre el centeno",
+        "autor": "J.D. Salinger",
+        "anio_publicacion": "1951",
+        "genero": "Ficción",
+        "isbn": "9782328155259"
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "anio_publicacion": "1953",
+        "genero": "Ciencia ficción",
+        "isbn": "9788248995692"
+    },
+    {
+        "titulo": "Drácula",
+        "autor": "Bram Stoker",
+        "anio_publicacion": "1897",
+        "genero": "Terror",
+        "isbn": "9786857859138"
+    },
+    {
+        "titulo": "Frankenstein",
+        "autor": "Mary Shelley",
+        "anio_publicacion": "1818",
+        "genero": "Terror",
+        "isbn": "9787164586144"
+    },
+    {
+        "titulo": "El código Da Vinci",
+        "autor": "Dan Brown",
+        "anio_publicacion": "2003",
+        "genero": "Suspenso",
+        "isbn": "9780752716039"
+    },
+    {
+        "titulo": "Ángeles y demonios",
+        "autor": "Dan Brown",
+        "anio_publicacion": "2000",
+        "genero": "Suspenso",
+        "isbn": "9788913299810"
+    },
+    {
+        "titulo": "La sombra del viento",
+        "autor": "Carlos Ruiz Zafón",
+        "anio_publicacion": "2001",
+        "genero": "Misterio",
+        "isbn": "9789644128790"
+    },
+    {
+        "titulo": "El juego del ángel",
+        "autor": "Carlos Ruiz Zafón",
+        "anio_publicacion": "2008",
+        "genero": "Misterio",
+        "isbn": "9782145314709"
+    },
+    {
+        "titulo": "La chica del tren",
+        "autor": "Paula Hawkins",
+        "anio_publicacion": "2015",
+        "genero": "Suspenso",
+        "isbn": "9785461148539"
+    },
+    {
+        "titulo": "Perdida",
+        "autor": "Gillian Flynn",
+        "anio_publicacion": "2012",
+        "genero": "Suspenso",
+        "isbn": "9780220826468"
+    },
+    {
+        "titulo": "El cuento de la criada",
+        "autor": "Margaret Atwood",
+        "anio_publicacion": "1985",
+        "genero": "Ciencia ficción",
+        "isbn": "9782451833093"
+    },
+    {
+        "titulo": "Nunca me abandones",
+        "autor": "Kazuo Ishiguro",
+        "anio_publicacion": "2005",
+        "genero": "Drama",
+        "isbn": "9780499800251"
+    },
+    {
+        "titulo": "Beloved",
+        "autor": "Toni Morrison",
+        "anio_publicacion": "1987",
+        "genero": "Drama",
+        "isbn": "9788867430567"
+    },
+    {
+        "titulo": "Americanah",
+        "autor": "Chimamanda Ngozi Adichie",
+        "anio_publicacion": "2013",
+        "genero": "Ficción",
+        "isbn": "9780202916156"
+    },
+    {
+        "titulo": "La carretera",
+        "autor": "Cormac McCarthy",
+        "anio_publicacion": "2006",
+        "genero": "Ficción",
+        "isbn": "9780617690054"
+    },
+    {
+        "titulo": "No es país para viejos",
+        "autor": "Cormac McCarthy",
+        "anio_publicacion": "2005",
+        "genero": "Suspenso",
+        "isbn": "9786152922780"
+    },
+    {
+        "titulo": "El psicoanalista",
+        "autor": "John Katzenbach",
+        "anio_publicacion": "2002",
+        "genero": "Suspenso",
+        "isbn": "9783803821690"
+    },
+    {
+        "titulo": "Los pilares de la Tierra",
+        "autor": "Ken Follett",
+        "anio_publicacion": "1989",
+        "genero": "Histórico",
+        "isbn": "9780502714735"
+    },
+    {
+        "titulo": "Un mundo sin fin",
+        "autor": "Ken Follett",
+        "anio_publicacion": "2007",
+        "genero": "Histórico",
+        "isbn": "9788873809166"
+    },
+    {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "anio_publicacion": "1967",
+        "genero": "Realismo mágico",
+        "isbn": "9787893709333"
+    },
+    {
+        "titulo": "El amor en los tiempos del cólera",
+        "autor": "Gabriel García Márquez",
+        "anio_publicacion": "1985",
+        "genero": "Romance",
+        "isbn": "9785676177836"
+    },
+    {
+        "titulo": "La casa de los espíritus",
+        "autor": "Isabel Allende",
+        "anio_publicacion": "1982",
+        "genero": "Realismo mágico",
+        "isbn": "9780960130085"
+    },
+    {
+        "titulo": "Rayuela",
+        "autor": "Julio Cortázar",
+        "anio_publicacion": "1963",
+        "genero": "Ficción",
+        "isbn": "9781713564119"
+    },
+    {
+        "titulo": "Ficciones",
+        "autor": "Jorge Luis Borges",
+        "anio_publicacion": "1944",
+        "genero": "Ficción",
+        "isbn": "9784458554865"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "anio_publicacion": "1949",
+        "genero": "Ciencia ficción",
+        "isbn": "9788500341465"
+    },
+    {
+        "titulo": "Rebelión en la granja",
+        "autor": "George Orwell",
+        "anio_publicacion": "1945",
+        "genero": "Ficción",
+        "isbn": "9782051747530"
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "anio_publicacion": "1813",
+        "genero": "Romance",
+        "isbn": "9785833002926"
+    },
+    {
+        "titulo": "Crimen y castigo",
+        "autor": "Fyodor Dostoevsky",
+        "anio_publicacion": "1866",
+        "genero": "Drama",
+        "isbn": "9781489587763"
+    },
+    {
+        "titulo": "El extranjero",
+        "autor": "Albert Camus",
+        "anio_publicacion": "1942",
+        "genero": "Ficción",
+        "isbn": "9783247177575"
+    },
+    {
+        "titulo": "La metamorfosis",
+        "autor": "Franz Kafka",
+        "anio_publicacion": "1915",
+        "genero": "Ficción",
+        "isbn": "9783908414469"
+    },
+    {
+        "titulo": "El nombre de la rosa",
+        "autor": "Umberto Eco",
+        "anio_publicacion": "1980",
+        "genero": "Misterio",
+        "isbn": "9783978461530"
+    },
+    {
+        "titulo": "El alquimista",
+        "autor": "Paulo Coelho",
+        "anio_publicacion": "1988",
+        "genero": "Ficción",
+        "isbn": "9781885163776"
+    },
+    {
+        "titulo": "Harry Potter y la piedra filosofal",
+        "autor": "J.K. Rowling",
+        "anio_publicacion": "1997",
+        "genero": "Fantasía",
+        "isbn": "9789333711999"
+    },
+    {
+        "titulo": "El señor de los anillos",
+        "autor": "J.R.R. Tolkien",
+        "anio_publicacion": "1954",
+        "genero": "Fantasía",
+        "isbn": "9780148304444"
+    },
+    {
+        "titulo": "El hobbit",
+        "autor": "J.R.R. Tolkien",
+        "anio_publicacion": "1937",
+        "genero": "Fantasía",
+        "isbn": "9780993225031"
+    },
+    {
+        "titulo": "It",
+        "autor": "Stephen King",
+        "anio_publicacion": "1986",
+        "genero": "Terror",
+        "isbn": "9781499520842"
+    },
+    {
+        "titulo": "El resplandor",
+        "autor": "Stephen King",
+        "anio_publicacion": "1977",
+        "genero": "Terror",
+        "isbn": "9782814295155"
+    },
+    {
+        "titulo": "Asesinato en el Orient Express",
+        "autor": "Agatha Christie",
+        "anio_publicacion": "1934",
+        "genero": "Misterio",
+        "isbn": "9783669625685"
+    },
+    {
+        "titulo": "Los juegos del hambre",
+        "autor": "Suzanne Collins",
+        "anio_publicacion": "2008",
+        "genero": "Ciencia ficción",
+        "isbn": "9780146425608"
+    },
+    {
+        "titulo": "Dune",
+        "autor": "Frank Herbert",
+        "anio_publicacion": "1965",
+        "genero": "Ciencia ficción",
+        "isbn": "9781851856480"
+    },
+    {
+        "titulo": "Neuromante",
+        "autor": "William Gibson",
+        "anio_publicacion": "1984",
+        "genero": "Ciencia ficción",
+        "isbn": "9784549671846"
+    },
+    {
+        "titulo": "Ensayo sobre la ceguera",
+        "autor": "José Saramago",
+        "anio_publicacion": "1995",
+        "genero": "Ficción",
+        "isbn": "9789110003385"
+    },
+    {
+        "titulo": "El túnel",
+        "autor": "Ernesto Sabato",
+        "anio_publicacion": "1948",
+        "genero": "Ficción",
+        "isbn": "9782718370385"
+    },
+    {
+        "titulo": "Sobre héroes y tumbas",
+        "autor": "Ernesto Sabato",
+        "anio_publicacion": "1961",
+        "genero": "Ficción",
+        "isbn": "9789367542552"
+    },
+    {
+        "titulo": "La tregua",
+        "autor": "Mario Benedetti",
+        "anio_publicacion": "1960",
+        "genero": "Romance",
+        "isbn": "9784981592136"
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "anio_publicacion": "1605",
+        "genero": "Ficción",
+        "isbn": "9785976127852"
+    },
+    {
+        "titulo": "Matar a un ruiseñor",
+        "autor": "Harper Lee",
+        "anio_publicacion": "1960",
+        "genero": "Drama",
+        "isbn": "9781504860062"
+    },
+    {
+        "titulo": "El gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "anio_publicacion": "1925",
+        "genero": "Ficción",
+        "isbn": "9780289081808"
+    },
+    {
+        "titulo": "Ulises",
+        "autor": "James Joyce",
+        "anio_publicacion": "1922",
+        "genero": "Ficción",
+        "isbn": "9784765812672"
+    },
+    {
+        "titulo": "Lolita",
+        "autor": "Vladimir Nabokov",
+        "anio_publicacion": "1955",
+        "genero": "Ficción",
+        "isbn": "9786345679378"
+    },
+    {
+        "titulo": "El guardián entre el centeno",
+        "autor": "J.D. Salinger",
+        "anio_publicacion": "1951",
+        "genero": "Ficción",
+        "isbn": "9780901382245"
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "anio_publicacion": "1953",
+        "genero": "Ciencia ficción",
+        "isbn": "9781913901226"
+    },
+    {
+        "titulo": "Drácula",
+        "autor": "Bram Stoker",
+        "anio_publicacion": "1897",
+        "genero": "Terror",
+        "isbn": "9788489685734"
+    },
+    {
+        "titulo": "Frankenstein",
+        "autor": "Mary Shelley",
+        "anio_publicacion": "1818",
+        "genero": "Terror",
+        "isbn": "9784241149643"
+    },
+    {
+        "titulo": "El código Da Vinci",
+        "autor": "Dan Brown",
+        "anio_publicacion": "2003",
+        "genero": "Suspenso",
+        "isbn": "9781894820769"
+    },
+    {
+        "titulo": "Ángeles y demonios",
+        "autor": "Dan Brown",
+        "anio_publicacion": "2000",
+        "genero": "Suspenso",
+        "isbn": "9782388852143"
+    },
+    {
+        "titulo": "La sombra del viento",
+        "autor": "Carlos Ruiz Zafón",
+        "anio_publicacion": "2001",
+        "genero": "Misterio",
+        "isbn": "9786420471262"
+    },
+    {
+        "titulo": "El juego del ángel",
+        "autor": "Carlos Ruiz Zafón",
+        "anio_publicacion": "2008",
+        "genero": "Misterio",
+        "isbn": "9783762438496"
+    },
+    {
+        "titulo": "La chica del tren",
+        "autor": "Paula Hawkins",
+        "anio_publicacion": "2015",
+        "genero": "Suspenso",
+        "isbn": "9784299552105"
+    },
+    {
+        "titulo": "Perdida",
+        "autor": "Gillian Flynn",
+        "anio_publicacion": "2012",
+        "genero": "Suspenso",
+        "isbn": "9785041454821"
+    },
+    {
+        "titulo": "El cuento de la criada",
+        "autor": "Margaret Atwood",
+        "anio_publicacion": "1985",
+        "genero": "Ciencia ficción",
+        "isbn": "9789335816722"
+    },
+    {
+        "titulo": "Nunca me abandones",
+        "autor": "Kazuo Ishiguro",
+        "anio_publicacion": "2005",
+        "genero": "Drama",
+        "isbn": "9785581225011"
+    },
+    {
+        "titulo": "Beloved",
+        "autor": "Toni Morrison",
+        "anio_publicacion": "1987",
+        "genero": "Drama",
+        "isbn": "9789709867909"
+    },
+    {
+        "titulo": "Americanah",
+        "autor": "Chimamanda Ngozi Adichie",
+        "anio_publicacion": "2013",
+        "genero": "Ficción",
+        "isbn": "9787747192625"
+    },
+    {
+        "titulo": "La carretera",
+        "autor": "Cormac McCarthy",
+        "anio_publicacion": "2006",
+        "genero": "Ficción",
+        "isbn": "9788552563129"
+    },
+    {
+        "titulo": "No es país para viejos",
+        "autor": "Cormac McCarthy",
+        "anio_publicacion": "2005",
+        "genero": "Suspenso",
+        "isbn": "9782297643535"
+    },
+    {
+        "titulo": "El psicoanalista",
+        "autor": "John Katzenbach",
+        "anio_publicacion": "2002",
+        "genero": "Suspenso",
+        "isbn": "9788018608234"
+    },
+    {
+        "titulo": "Los pilares de la Tierra",
+        "autor": "Ken Follett",
+        "anio_publicacion": "1989",
+        "genero": "Histórico",
+        "isbn": "9786310000145"
+    },
+    {
+        "titulo": "Un mundo sin fin",
+        "autor": "Ken Follett",
+        "anio_publicacion": "2007",
+        "genero": "Histórico",
+        "isbn": "9783075117675"
+    },
+    {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "anio_publicacion": "1967",
+        "genero": "Realismo mágico",
+        "isbn": "9783137540885"
+    },
+    {
+        "titulo": "El amor en los tiempos del cólera",
+        "autor": "Gabriel García Márquez",
+        "anio_publicacion": "1985",
+        "genero": "Romance",
+        "isbn": "9786595466537"
+    },
+    {
+        "titulo": "La casa de los espíritus",
+        "autor": "Isabel Allende",
+        "anio_publicacion": "1982",
+        "genero": "Realismo mágico",
+        "isbn": "9787163522280"
+    },
+    {
+        "titulo": "Rayuela",
+        "autor": "Julio Cortázar",
+        "anio_publicacion": "1963",
+        "genero": "Ficción",
+        "isbn": "9787957868921"
+    },
+    {
+        "titulo": "Ficciones",
+        "autor": "Jorge Luis Borges",
+        "anio_publicacion": "1944",
+        "genero": "Ficción",
+        "isbn": "9784851348740"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "anio_publicacion": "1949",
+        "genero": "Ciencia ficción",
+        "isbn": "9783160388010"
+    },
+    {
+        "titulo": "Rebelión en la granja",
+        "autor": "George Orwell",
+        "anio_publicacion": "1945",
+        "genero": "Ficción",
+        "isbn": "9788990383426"
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "anio_publicacion": "1813",
+        "genero": "Romance",
+        "isbn": "9789123162871"
+    },
+    {
+        "titulo": "Crimen y castigo",
+        "autor": "Fyodor Dostoevsky",
+        "anio_publicacion": "1866",
+        "genero": "Drama",
+        "isbn": "9785711243038"
+    },
+    {
+        "titulo": "El extranjero",
+        "autor": "Albert Camus",
+        "anio_publicacion": "1942",
+        "genero": "Ficción",
+        "isbn": "9787874663630"
+    },
+    {
+        "titulo": "La metamorfosis",
+        "autor": "Franz Kafka",
+        "anio_publicacion": "1915",
+        "genero": "Ficción",
+        "isbn": "9782755970203"
+    },
+    {
+        "titulo": "El nombre de la rosa",
+        "autor": "Umberto Eco",
+        "anio_publicacion": "1980",
+        "genero": "Misterio",
+        "isbn": "9780153638114"
+    },
+    {
+        "titulo": "El alquimista",
+        "autor": "Paulo Coelho",
+        "anio_publicacion": "1988",
+        "genero": "Ficción",
+        "isbn": "9786124892301"
+    },
+    {
+        "titulo": "Harry Potter y la piedra filosofal",
+        "autor": "J.K. Rowling",
+        "anio_publicacion": "1997",
+        "genero": "Fantasía",
+        "isbn": "9787347049589"
+    },
+    {
+        "titulo": "El señor de los anillos",
+        "autor": "J.R.R. Tolkien",
+        "anio_publicacion": "1954",
+        "genero": "Fantasía",
+        "isbn": "9787231417449"
+    },
+    {
+        "titulo": "El hobbit",
+        "autor": "J.R.R. Tolkien",
+        "anio_publicacion": "1937",
+        "genero": "Fantasía",
+        "isbn": "9787190255069"
+    },
+    {
+        "titulo": "It",
+        "autor": "Stephen King",
+        "anio_publicacion": "1986",
+        "genero": "Terror",
+        "isbn": "9787718962189"
+    },
+    {
+        "titulo": "El resplandor",
+        "autor": "Stephen King",
+        "anio_publicacion": "1977",
+        "genero": "Terror",
+        "isbn": "9785252618890"
+    },
+    {
+        "titulo": "Asesinato en el Orient Express",
+        "autor": "Agatha Christie",
+        "anio_publicacion": "1934",
+        "genero": "Misterio",
+        "isbn": "9784349765660"
+    },
+    {
+        "titulo": "Los juegos del hambre",
+        "autor": "Suzanne Collins",
+        "anio_publicacion": "2008",
+        "genero": "Ciencia ficción",
+        "isbn": "9781715416522"
+    },
+    {
+        "titulo": "Dune",
+        "autor": "Frank Herbert",
+        "anio_publicacion": "1965",
+        "genero": "Ciencia ficción",
+        "isbn": "9789239618330"
+    },
+    {
+        "titulo": "Neuromante",
+        "autor": "William Gibson",
+        "anio_publicacion": "1984",
+        "genero": "Ciencia ficción",
+        "isbn": "9781774806074"
+    },
+    {
+        "titulo": "Ensayo sobre la ceguera",
+        "autor": "José Saramago",
+        "anio_publicacion": "1995",
+        "genero": "Ficción",
+        "isbn": "9785304891417"
+    },
+    {
+        "titulo": "El túnel",
+        "autor": "Ernesto Sabato",
+        "anio_publicacion": "1948",
+        "genero": "Ficción",
+        "isbn": "9788180682414"
+    },
+    {
+        "titulo": "Sobre héroes y tumbas",
+        "autor": "Ernesto Sabato",
+        "anio_publicacion": "1961",
+        "genero": "Ficción",
+        "isbn": "9789626277317"
+    },
+    {
+        "titulo": "La tregua",
+        "autor": "Mario Benedetti",
+        "anio_publicacion": "1960",
+        "genero": "Romance",
+        "isbn": "9782646634634"
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "anio_publicacion": "1605",
+        "genero": "Ficción",
+        "isbn": "9783892268192"
+    },
+    {
+        "titulo": "Matar a un ruiseñor",
+        "autor": "Harper Lee",
+        "anio_publicacion": "1960",
+        "genero": "Drama",
+        "isbn": "9784502471667"
+    },
+    {
+        "titulo": "El gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "anio_publicacion": "1925",
+        "genero": "Ficción",
+        "isbn": "9785173607805"
+    },
+    {
+        "titulo": "Ulises",
+        "autor": "James Joyce",
+        "anio_publicacion": "1922",
+        "genero": "Ficción",
+        "isbn": "9782881441080"
+    },
+    {
+        "titulo": "Lolita",
+        "autor": "Vladimir Nabokov",
+        "anio_publicacion": "1955",
+        "genero": "Ficción",
+        "isbn": "9785507976096"
+    },
+    {
+        "titulo": "El guardián entre el centeno",
+        "autor": "J.D. Salinger",
+        "anio_publicacion": "1951",
+        "genero": "Ficción",
+        "isbn": "9783974133240"
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "anio_publicacion": "1953",
+        "genero": "Ciencia ficción",
+        "isbn": "9785892248808"
+    },
+    {
+        "titulo": "Drácula",
+        "autor": "Bram Stoker",
+        "anio_publicacion": "1897",
+        "genero": "Terror",
+        "isbn": "9786879383222"
+    },
+    {
+        "titulo": "Frankenstein",
+        "autor": "Mary Shelley",
+        "anio_publicacion": "1818",
+        "genero": "Terror",
+        "isbn": "9789948187332"
+    },
+    {
+        "titulo": "El código Da Vinci",
+        "autor": "Dan Brown",
+        "anio_publicacion": "2003",
+        "genero": "Suspenso",
+        "isbn": "9782807503823"
+    },
+    {
+        "titulo": "Ángeles y demonios",
+        "autor": "Dan Brown",
+        "anio_publicacion": "2000",
+        "genero": "Suspenso",
+        "isbn": "9787143987535"
+    },
+    {
+        "titulo": "La sombra del viento",
+        "autor": "Carlos Ruiz Zafón",
+        "anio_publicacion": "2001",
+        "genero": "Misterio",
+        "isbn": "9787425840725"
+    },
+    {
+        "titulo": "El juego del ángel",
+        "autor": "Carlos Ruiz Zafón",
+        "anio_publicacion": "2008",
+        "genero": "Misterio",
+        "isbn": "9788720524242"
+    },
+    {
+        "titulo": "La chica del tren",
+        "autor": "Paula Hawkins",
+        "anio_publicacion": "2015",
+        "genero": "Suspenso",
+        "isbn": "9780872075597"
+    },
+    {
+        "titulo": "Perdida",
+        "autor": "Gillian Flynn",
+        "anio_publicacion": "2012",
+        "genero": "Suspenso",
+        "isbn": "9781936569908"
+    },
+    {
+        "titulo": "El cuento de la criada",
+        "autor": "Margaret Atwood",
+        "anio_publicacion": "1985",
+        "genero": "Ciencia ficción",
+        "isbn": "9783333173689"
+    },
+    {
+        "titulo": "Nunca me abandones",
+        "autor": "Kazuo Ishiguro",
+        "anio_publicacion": "2005",
+        "genero": "Drama",
+        "isbn": "9780503338923"
+    },
+    {
+        "titulo": "Beloved",
+        "autor": "Toni Morrison",
+        "anio_publicacion": "1987",
+        "genero": "Drama",
+        "isbn": "9780708482926"
+    },
+    {
+        "titulo": "Americanah",
+        "autor": "Chimamanda Ngozi Adichie",
+        "anio_publicacion": "2013",
+        "genero": "Ficción",
+        "isbn": "9783638885317"
+    },
+    {
+        "titulo": "La carretera",
+        "autor": "Cormac McCarthy",
+        "anio_publicacion": "2006",
+        "genero": "Ficción",
+        "isbn": "9781648435737"
+    },
+    {
+        "titulo": "No es país para viejos",
+        "autor": "Cormac McCarthy",
+        "anio_publicacion": "2005",
+        "genero": "Suspenso",
+        "isbn": "9789568132354"
+    },
+    {
+        "titulo": "El psicoanalista",
+        "autor": "John Katzenbach",
+        "anio_publicacion": "2002",
+        "genero": "Suspenso",
+        "isbn": "9783331170239"
+    },
+    {
+        "titulo": "Los pilares de la Tierra",
+        "autor": "Ken Follett",
+        "anio_publicacion": "1989",
+        "genero": "Histórico",
+        "isbn": "9781972118092"
+    },
+    {
+        "titulo": "Un mundo sin fin",
+        "autor": "Ken Follett",
+        "anio_publicacion": "2007",
+        "genero": "Histórico",
+        "isbn": "9788141656751"
+    },
+    {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "anio_publicacion": "1967",
+        "genero": "Realismo mágico",
+        "isbn": "9789636340803"
+    },
+    {
+        "titulo": "El amor en los tiempos del cólera",
+        "autor": "Gabriel García Márquez",
+        "anio_publicacion": "1985",
+        "genero": "Romance",
+        "isbn": "9782995274970"
+    },
+    {
+        "titulo": "La casa de los espíritus",
+        "autor": "Isabel Allende",
+        "anio_publicacion": "1982",
+        "genero": "Realismo mágico",
+        "isbn": "9782546641947"
+    },
+    {
+        "titulo": "Rayuela",
+        "autor": "Julio Cortázar",
+        "anio_publicacion": "1963",
+        "genero": "Ficción",
+        "isbn": "9784118593494"
+    },
+    {
+        "titulo": "Ficciones",
+        "autor": "Jorge Luis Borges",
+        "anio_publicacion": "1944",
+        "genero": "Ficción",
+        "isbn": "9780855755256"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "anio_publicacion": "1949",
+        "genero": "Ciencia ficción",
+        "isbn": "9781381345560"
+    },
+    {
+        "titulo": "Rebelión en la granja",
+        "autor": "George Orwell",
+        "anio_publicacion": "1945",
+        "genero": "Ficción",
+        "isbn": "9787327836406"
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "anio_publicacion": "1813",
+        "genero": "Romance",
+        "isbn": "9784378785875"
+    },
+    {
+        "titulo": "Crimen y castigo",
+        "autor": "Fyodor Dostoevsky",
+        "anio_publicacion": "1866",
+        "genero": "Drama",
+        "isbn": "9787854156145"
+    },
+    {
+        "titulo": "El extranjero",
+        "autor": "Albert Camus",
+        "anio_publicacion": "1942",
+        "genero": "Ficción",
+        "isbn": "9781075630514"
+    },
+    {
+        "titulo": "La metamorfosis",
+        "autor": "Franz Kafka",
+        "anio_publicacion": "1915",
+        "genero": "Ficción",
+        "isbn": "9782187070953"
+    },
+    {
+        "titulo": "El nombre de la rosa",
+        "autor": "Umberto Eco",
+        "anio_publicacion": "1980",
+        "genero": "Misterio",
+        "isbn": "9780560563375"
+    },
+    {
+        "titulo": "El alquimista",
+        "autor": "Paulo Coelho",
+        "anio_publicacion": "1988",
+        "genero": "Ficción",
+        "isbn": "9787933086226"
+    },
+    {
+        "titulo": "Harry Potter y la piedra filosofal",
+        "autor": "J.K. Rowling",
+        "anio_publicacion": "1997",
+        "genero": "Fantasía",
+        "isbn": "9782747647786"
+    },
+    {
+        "titulo": "El señor de los anillos",
+        "autor": "J.R.R. Tolkien",
+        "anio_publicacion": "1954",
+        "genero": "Fantasía",
+        "isbn": "9780798242202"
+    },
+    {
+        "titulo": "El hobbit",
+        "autor": "J.R.R. Tolkien",
+        "anio_publicacion": "1937",
+        "genero": "Fantasía",
+        "isbn": "9781353966915"
+    },
+    {
+        "titulo": "It",
+        "autor": "Stephen King",
+        "anio_publicacion": "1986",
+        "genero": "Terror",
+        "isbn": "9781404262331"
+    },
+    {
+        "titulo": "El resplandor",
+        "autor": "Stephen King",
+        "anio_publicacion": "1977",
+        "genero": "Terror",
+        "isbn": "9781266495526"
+    },
+    {
+        "titulo": "Asesinato en el Orient Express",
+        "autor": "Agatha Christie",
+        "anio_publicacion": "1934",
+        "genero": "Misterio",
+        "isbn": "9784482910644"
+    },
+    {
+        "titulo": "Los juegos del hambre",
+        "autor": "Suzanne Collins",
+        "anio_publicacion": "2008",
+        "genero": "Ciencia ficción",
+        "isbn": "9787471308705"
+    },
+    {
+        "titulo": "Dune",
+        "autor": "Frank Herbert",
+        "anio_publicacion": "1965",
+        "genero": "Ciencia ficción",
+        "isbn": "9782859376895"
+    },
+    {
+        "titulo": "Neuromante",
+        "autor": "William Gibson",
+        "anio_publicacion": "1984",
+        "genero": "Ciencia ficción",
+        "isbn": "9786306766833"
+    },
+    {
+        "titulo": "Ensayo sobre la ceguera",
+        "autor": "José Saramago",
+        "anio_publicacion": "1995",
+        "genero": "Ficción",
+        "isbn": "9782374523255"
+    },
+    {
+        "titulo": "El túnel",
+        "autor": "Ernesto Sabato",
+        "anio_publicacion": "1948",
+        "genero": "Ficción",
+        "isbn": "9783404880638"
+    },
+    {
+        "titulo": "Sobre héroes y tumbas",
+        "autor": "Ernesto Sabato",
+        "anio_publicacion": "1961",
+        "genero": "Ficción",
+        "isbn": "9782536756392"
+    },
+    {
+        "titulo": "La tregua",
+        "autor": "Mario Benedetti",
+        "anio_publicacion": "1960",
+        "genero": "Romance",
+        "isbn": "9784590190143"
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "anio_publicacion": "1605",
+        "genero": "Ficción",
+        "isbn": "9784473659965"
+    },
+    {
+        "titulo": "Matar a un ruiseñor",
+        "autor": "Harper Lee",
+        "anio_publicacion": "1960",
+        "genero": "Drama",
+        "isbn": "9780769980195"
+    },
+    {
+        "titulo": "El gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "anio_publicacion": "1925",
+        "genero": "Ficción",
+        "isbn": "9787701454189"
+    },
+    {
+        "titulo": "Ulises",
+        "autor": "James Joyce",
+        "anio_publicacion": "1922",
+        "genero": "Ficción",
+        "isbn": "9787858874571"
+    },
+    {
+        "titulo": "Lolita",
+        "autor": "Vladimir Nabokov",
+        "anio_publicacion": "1955",
+        "genero": "Ficción",
+        "isbn": "9781585907397"
+    },
+    {
+        "titulo": "El guardián entre el centeno",
+        "autor": "J.D. Salinger",
+        "anio_publicacion": "1951",
+        "genero": "Ficción",
+        "isbn": "9781857727487"
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "anio_publicacion": "1953",
+        "genero": "Ciencia ficción",
+        "isbn": "9783128964140"
+    },
+    {
+        "titulo": "Drácula",
+        "autor": "Bram Stoker",
+        "anio_publicacion": "1897",
+        "genero": "Terror",
+        "isbn": "9780541990220"
+    },
+    {
+        "titulo": "Frankenstein",
+        "autor": "Mary Shelley",
+        "anio_publicacion": "1818",
+        "genero": "Terror",
+        "isbn": "9783392650473"
+    },
+    {
+        "titulo": "El código Da Vinci",
+        "autor": "Dan Brown",
+        "anio_publicacion": "2003",
+        "genero": "Suspenso",
+        "isbn": "9786013721873"
+    },
+    {
+        "titulo": "Ángeles y demonios",
+        "autor": "Dan Brown",
+        "anio_publicacion": "2000",
+        "genero": "Suspenso",
+        "isbn": "9783108837822"
+    },
+    {
+        "titulo": "La sombra del viento",
+        "autor": "Carlos Ruiz Zafón",
+        "anio_publicacion": "2001",
+        "genero": "Misterio",
+        "isbn": "9787473815782"
+    },
+    {
+        "titulo": "El juego del ángel",
+        "autor": "Carlos Ruiz Zafón",
+        "anio_publicacion": "2008",
+        "genero": "Misterio",
+        "isbn": "9787868902837"
+    },
+    {
+        "titulo": "La chica del tren",
+        "autor": "Paula Hawkins",
+        "anio_publicacion": "2015",
+        "genero": "Suspenso",
+        "isbn": "9781170842829"
+    },
+    {
+        "titulo": "Perdida",
+        "autor": "Gillian Flynn",
+        "anio_publicacion": "2012",
+        "genero": "Suspenso",
+        "isbn": "9781186177601"
+    },
+    {
+        "titulo": "El cuento de la criada",
+        "autor": "Margaret Atwood",
+        "anio_publicacion": "1985",
+        "genero": "Ciencia ficción",
+        "isbn": "9780419469896"
+    },
+    {
+        "titulo": "Nunca me abandones",
+        "autor": "Kazuo Ishiguro",
+        "anio_publicacion": "2005",
+        "genero": "Drama",
+        "isbn": "9782846846066"
+    },
+    {
+        "titulo": "Beloved",
+        "autor": "Toni Morrison",
+        "anio_publicacion": "1987",
+        "genero": "Drama",
+        "isbn": "9789531894340"
+    },
+    {
+        "titulo": "Americanah",
+        "autor": "Chimamanda Ngozi Adichie",
+        "anio_publicacion": "2013",
+        "genero": "Ficción",
+        "isbn": "9781924128919"
+    },
+    {
+        "titulo": "La carretera",
+        "autor": "Cormac McCarthy",
+        "anio_publicacion": "2006",
+        "genero": "Ficción",
+        "isbn": "9780755574599"
+    },
+    {
+        "titulo": "No es país para viejos",
+        "autor": "Cormac McCarthy",
+        "anio_publicacion": "2005",
+        "genero": "Suspenso",
+        "isbn": "9783892212140"
+    },
+    {
+        "titulo": "El psicoanalista",
+        "autor": "John Katzenbach",
+        "anio_publicacion": "2002",
+        "genero": "Suspenso",
+        "isbn": "9787015408137"
+    },
+    {
+        "titulo": "Los pilares de la Tierra",
+        "autor": "Ken Follett",
+        "anio_publicacion": "1989",
+        "genero": "Histórico",
+        "isbn": "9783062828874"
+    },
+    {
+        "titulo": "Un mundo sin fin",
+        "autor": "Ken Follett",
+        "anio_publicacion": "2007",
+        "genero": "Histórico",
+        "isbn": "9785830166485"
+    }
+]

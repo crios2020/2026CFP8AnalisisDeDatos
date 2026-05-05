@@ -1,0 +1,7 @@
+productos:
+  - codigo: 1
+    descripcion: teclado
+    precio: 15000
+  - codigo: 2
+    descripcion: mouse
+    precio: 9000

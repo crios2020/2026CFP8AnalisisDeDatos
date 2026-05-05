@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Este archivo es una demostración del formato XML -->
+
+<!-- Ejemplo de persona usando atributos -->
+<persona nombre="Juan" edad="30" />
+
+<!-- Ejemplo de persona con elementos -->
+<persona>
+    <nombre>Juan</nombre>
+    <edad>30</edad>
+</persona>
+
+<!-- Ambas formas son validas -->
+
+
+<!-- Ejemplo Gerarquico y de lista -->
+<!-- El contenido esta indentado -->
+<biblioteca nombre="M. Belgrano">
+    <libro>
+        <titulo>Don Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+    </libro>
+    <libro>
+        <titulo>La Odisea</titulo>
+        <autor>Homero</autor>
+    </libro>
+    <libro>
+        <titulo>El Principito</titulo>
+        <autor>Saint Supery</autor>
+    </libro>
+</biblioteca>
