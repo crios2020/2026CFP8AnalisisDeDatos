@@ -11,11 +11,15 @@ Algunas APIs requieren un registro complicado, otras APIs tienen desprolijidades
 	- https://buenosaires.gob.ar/infraestructura/movilidad/api-transporte
 	- https://servicios.usig.buenosaires.gob.ar/normalizar						(testeado, funciona sin registros)
 
+Instituto de estadistica y censo de la ciudad de buenos aires, datos públicos, no APIs
+	- https://www.estadisticaciudad.gob.ar/eyc/arbol-tematico/	(Datos del instituto de estadistica y censo)
+
 Api de datos del tiempo y meteorología
 	- https://openweathermap.org/api		(Requiere registro y Api Key, esta testeada)
 	- https://open-meteo.com/				(OpenSource, no esta testeada) 
 	- https://github.com/gastonpereyra/smnQL/tree/master/docs/api 		(no devuelve datos actuales)
 	- https://app-clima-6bdda.web.app/		(No es un API, es una web de ejemplo de uso de un API)
+	- https://ws2.smn.gob.ar/descarga-de-datos (Servicio Meteorologico Nacional - Solo datos publicos no API)
 	
 Api de IP y Geo
 	- https://ipwhois.app/json/				(Testeada OK, 10mil request por mes free, el GEO es del proveedor )
@@ -53,7 +57,12 @@ Apis de Argentinadatos.com
 	- https://api.argentinadatos.com/v1/finanzas/indices/riesgo-pais/ultimo/
 	- https://api.argentinadatos.com/v1/feriados/2025/
 	- https://api.argentinadatos.com/v1/estado/
-	
+
+Indec, no se encuentran APIs pero si datos públicos
+https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos-1
+
+Censos Nacionales
+https://censo.gob.ar/
 
 Apis del Banco Central de la Republica Argentina
 	- https://www.bcra.gob.ar/BCRAyVos/catalogo-de-APIs-banco-central.asp
@@ -95,6 +104,9 @@ Apis de desarrolladores con ejemplos
 								/users/1/albums
 								/users/1/todos
 								/users/1/posts
+
+Herramientas de scrap
+https://apify.com/											(Testeado OK, en la versión free permite descargar csv, en la versión paga hay API)
 
 
 Páginas con widgets 
