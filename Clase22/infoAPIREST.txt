@@ -1,0 +1,15 @@
+Concepto de API REST
+
+Definición de API
+API Application Programming Interface, Interface de Programación de Aplicaciones
+
+Que es REST?
+REST Representational State Transfer, Transferencia de Estado de Representaciones
+Origen año 2000 y es una arquitectura que define como deben diseñarse 
+    los servicios para que sean simples y escalables.
+
+En Rest usamos los protocolos TCP/IP, HTTP, y normalmente JSON
+TCP/IP: se encarga de conexión y transporte de datos.
+HTTP:   se encarga de envoltorio de información y seguridad.
+JSON:   es el modelo de formato de texto.
+
