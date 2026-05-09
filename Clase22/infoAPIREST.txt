@@ -13,3 +13,4 @@ TCP/IP: se encarga de conexión y transporte de datos.
 HTTP:   se encarga de envoltorio de información y seguridad.
 JSON:   es el modelo de formato de texto.
 
+//TODO Scrapt

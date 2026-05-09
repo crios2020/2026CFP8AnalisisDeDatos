@@ -1,0 +1,17 @@
+https://apis.datos.gob.ar/georef/api/departamentos
+
+
+https://api.openweathermap.org/data/2.5/weather?q=Buenos Aires&appid=9e122cd782b2d0333f5fe4e7fa192062&lang=es
+
+
+
+ key: '9e122cd782b2d0333f5fe4e7fa192062',
+    url: 'https://api.openweathermap.org/data/2.5/weather',
+    city: 'Buenos Aires',       //FIXME deberia detectar la ciudad
+    internet: false
+
+
+-34.6090236
+-58.4212497
+
+http://servicios.usig.buenosaires.gob.ar/normalizar/?lng=-58.4212497&lat=-34.6090236
