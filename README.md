@@ -3,7 +3,7 @@
 
 ### Módulos
 - [x] **Módulo:** Metodologías y técnicas de estadistica para gestión de datos. *96 hs*
-- [ ] **Módulo:** Metodologías y técnicas de preparación, analísis y visualización de datos. *120 hs*
+- [x] **Módulo:** Metodologías y técnicas de preparación, analísis y visualización de datos. *120 hs*
 - [ ] **Módulo:** Herramientas digitales de procesamiento y análisis de datos. *120 hs*
 - [ ] **Módulo:** Relaciones Laborales y Orientación Profesional. *24 hs*
 
