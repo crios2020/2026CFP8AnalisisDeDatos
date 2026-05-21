@@ -1,0 +1,30 @@
+-- Objetivos:   SQL, NoSQL, Looker Studio, Power Bi, N8N
+
+
+Software Servidor:  MySQL Community Server  www.mysql.com
+
+Software Cliente:   MySQl Workbench         www.mysql.com
+                    VSCode
+
+MariaDB Server: www.mariadb.org
+
+Paquete XAMPP:  apachefriends.org
+
+    X       Linux - Windows - Mac
+    A       Apache Web Server
+    M       MySQL Server - MariaDB Server
+    P       PHP
+    P       Perl
+
+
+Paquete WAMP - MAMP - LAMP
+
+descargar MySQL Workbench
+https://dev.mysql.com/downloads/workbench/
+
+lista de videos de entorno de desarrollo
+https://www.youtube.com/watch?v=qLKXAvjVLH4&list=PLMLmotKSEKYdhb3F3JpbtZPewb-9wZTji&index=1
+
+Lista de videos de curso mysql
+https://www.youtube.com/playlist?list=PLMLmotKSEKYfAXzL8O62KUgc6TpJ-mC-6
+
