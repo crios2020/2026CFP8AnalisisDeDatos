@@ -1,0 +1,36 @@
+Oravle Virtual Box 
+VM: Ubuntu-18.04-minimal
+
+User:   user
+Pass:   java
+IP:     192.168.20.181
+
+
+--docker de MySQL
+sudo docker run -d \
+--name mysql-server \
+-e MYSQL_ROOT_PASSWORD=java \
+-p 3307:3306 \
+--restart unless-stopped \
+mysql:latest
+
+
+--docker mariadb
+sudo docker run -d \
+--name mariadb-server \
+-e MARIADB_ROOT_PASSWORD=java \
+-p 3308:3308 \
+-v mariadb_data:/var/lib/mysql \
+--restart unless-stopped \
+mariadb:latest \
+--port=3308
+
+--docker mysql 5.5
+sudo docker run -d \
+--name mysql55-server \
+-e MYSQL_ROOT_PASSWORD=java \
+-p 3309:3309 \
+-v mysql55_data:/var/lib/mysql \
+--restart unless-stopped \
+mysql:5.5 \
+--port=3309
