@@ -1,8 +1,16 @@
--- Active: 1774543856203@@127.0.0.1@3306@agenda
+-- Active: 1780094963500@@127.0.0.1@3306@hr
 -- Usando la base de datos hr
 
 -- Ingresar 5 nuevos paises (countries).
-
+use hr;
+select * from REGIONS;
+select * from COUNTRIES;
+insert into COUNTRIES values 
+    ('LE','Chile',2),
+    ('PY','Paraguay',2),
+    ('PE','Peru',2),
+    ('UY','Uruguay',2),
+    ('BO','Bolivia',2);
 
 -- Ingresar 5 nuevas ciudades (locations).
 
