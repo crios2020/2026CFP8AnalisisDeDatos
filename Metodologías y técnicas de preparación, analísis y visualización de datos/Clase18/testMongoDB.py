@@ -3,7 +3,7 @@ print("-- Test MongoBD --")
 #pip install pymongo
 
 from pymongo import MongoClient
-client=MongoClient("mongodb://user:java@192.168.20.80/")    #conexión
+client=MongoClient("mongodb://user:java@192.168.20.28/")    #conexión
 db=client["mi_base"]                                        #BD
 coleccion=db["usuarios"]                                    #Tabla
 
