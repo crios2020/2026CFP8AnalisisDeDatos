@@ -1,0 +1,24 @@
+<script src="https://crios2020.github.io/js/util.js"></script>
+<script>
+    print("Hola Mundo!")
+    hablar("Hola Mundo!")
+
+    temperatura=getTemperatura()
+    llueve=getLlueve()
+
+    texto="La temperatura es "+temperatura+" grados centígrados, "
+    if(llueve)  texto+="esta lloviendo, salir con paraguas. "
+    else        texto+="no hay lluvias. "
+
+    if(temperatura <=10 )   texto+="Salir abrigado!"
+    if(temperatura >=28)    texto+="Beber mucho liquido!"
+    
+    print(texto)
+    hablar(texto)
+
+    nombre=input("Cual es tu nombre?")
+    //print("Decime tu nombre?")
+    //nombre=escuchar()
+    print("hola "+nombre)
+
+</script>
